@@ -1,0 +1,17 @@
+{
+  "name": "typescript-web-server",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "repository": "git@github.com:Every2/typescript-web-server.git",
+  "author": "Every",
+  "license": "None",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "@types/node": "^20.10.5",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
